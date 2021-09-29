@@ -6,7 +6,7 @@ Cria o projeto com React Native
 ### expo init Nome_projeto
 
 Rodar o projeto usando Expo
-### npm start
+### expo start
 
 Transforma o CSS em Componentes
 ### npm install --save styled-components
