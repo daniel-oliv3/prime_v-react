@@ -10,3 +10,10 @@ Rodar o projeto usando Expo
 
 Transforma o CSS em Componentes
 ### npm install --save styled-components
+
+React Navigation
+### expo install @react-navigation/native
+
+### expo install @react-navigation/native-stack
+
+### install @react-navigation/drawer
